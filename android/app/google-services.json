@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230505122126",
+    "project_id": "pocket-pulse",
+    "storage_bucket": "pocket-pulse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230505122126:android:ac3a8309e6d52a637d361f",
+        "android_client_info": {
+          "package_name": "com.pocketpulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230505122126-c0q80iuu2bm2tg8v1hk29obonkad4ns1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy6f-94A8IUCnpo-3zoRjNTY95s6Aav-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230505122126-c0q80iuu2bm2tg8v1hk29obonkad4ns1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
